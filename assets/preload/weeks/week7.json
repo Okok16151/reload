@@ -1,0 +1,30 @@
+{
+	"storyName": "Have you heard about: Friday night funkin ' mods?",
+	"hideFreeplay": false,
+	"weekBackground": "salty",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"salty",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Salty",
+			"salty",
+			[
+				82,
+				224,
+				186
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}
