@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Salty Idle"
+		},
+		{
+			"offsets": [
+				20,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Salty Left"
+		},
+		{
+			"offsets": [
+				18,
+				-157
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Salty Right"
+		},
+		{
+			"offsets": [
+				-33,
+				-108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Salty Up"
+		},
+		{
+			"offsets": [
+				0,
+				-175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Salty Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Salty_Assets",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "salty",
+	"flip_x": false,
+	"healthbar_colors": [
+		82,
+		224,
+		186
+	],
+	"camera_position": [
+		-30,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
